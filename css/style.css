@@ -86,6 +86,7 @@ body {
 .choice {
     cursor: pointer;
     transition: .25s all;
+    font-size: 150px;
 }
 
 .choice:hover {
