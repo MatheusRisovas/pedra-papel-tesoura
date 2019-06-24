@@ -56,6 +56,11 @@ body {
 
 .header h1 {
     margin-bottom: 1rem;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
 }
 
 .score {
@@ -104,6 +109,15 @@ body {
 @media(max-width:700px) {
     .choice {
         font-size: 110px;
+    }
+    .score {
+        font-size: 1rem;
+    }
+    .header h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1.5rem;
     }
 }
 
